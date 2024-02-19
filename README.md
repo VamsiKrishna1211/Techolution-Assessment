@@ -1,5 +1,7 @@
 # Techolution Assessment
 
+For the `Redesigning Poor Code` assessment, please click [here](Redesigning%20Poor%20Code/README.md).
+
 ## Problem Statement
 
 ### File Processing System
