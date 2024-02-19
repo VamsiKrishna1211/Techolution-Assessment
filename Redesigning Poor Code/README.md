@@ -1,5 +1,19 @@
 # Redesigning Poor Code
 
+## Contents
+- [Redesigning Poor Code](#redesigning-poor-code)
+  - [Contents](#contents)
+  - [Problem Statement](#problem-statement)
+    - [Task for the Candidate](#task-for-the-candidate)
+  - [Solution](#solution)
+    - [How to run the code](#how-to-run-the-code)
+      - [Example Usage:](#example-usage)
+    - [Schema Design](#schema-design)
+      - [Schema Diagram](#schema-diagram)
+    - [Design Decisions](#design-decisions)
+    - [Future Scope](#future-scope)
+    - [Conclusion](#conclusion)
+
 ## Problem Statement
 Your task is to reformat a poorly designed code for a Library Management System with the following functionalities
 1. Manage books (add, update, delete, list, and search by various attributes like title, author, or ISBN)
